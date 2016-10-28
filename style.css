@@ -24,6 +24,6 @@ body {
 
 img.header {
   position:absolute;
-  top: 5%;
-  right: 5%;
+  top: 0px;
+  right: 0px;
 }

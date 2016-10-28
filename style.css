@@ -1,7 +1,7 @@
 body {
   background-color: #181009;
   font-family: "Hammersmith One", sans-serif;
-  overflow: hidden;
+  overflow:scroll;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;

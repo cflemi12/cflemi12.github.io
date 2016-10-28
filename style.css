@@ -23,7 +23,6 @@ body {
 }
 
 img.header {
-  position:absolute;
-  top: 0px;
-  right: 0px;
+  position:sticky;
+  top: 10 px
 }

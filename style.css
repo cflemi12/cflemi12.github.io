@@ -21,3 +21,8 @@ body {
   text-align: center;
   position: relative;
 }
+
+img.header {
+  display:inline;
+  float: right;
+}

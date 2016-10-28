@@ -18,7 +18,7 @@ body {
   display:block;
 }
 
-#facebook #github #email {
+#facebook, #github, #email {
   color:rgb(255, 239, 219);
   font-family: "Hammersmith One", sans-serif;
   text-decoration: none;

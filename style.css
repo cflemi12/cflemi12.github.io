@@ -2,6 +2,11 @@ body {
   background-color: #121212;
   font-family: "Hammersmith One", sans-serif;
   overflow: hidden;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  display: block;
 }
 
 .header {

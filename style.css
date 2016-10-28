@@ -1,7 +1,13 @@
 body {
   background-color: #121212;
+  font-family: "Hammersmith One", sans-serif;
 }
 
 h1, p {
-  color: #ffefd5;
+  color: rgb(255, 239, 219);
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: .05em;
 }

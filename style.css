@@ -7,6 +7,13 @@ body {
   -ms-user-select: none;
   user-select: none;
   display: block;
+  opacity:1;
+  transition:ls opacity;
+}
+
+body.fade-out {
+  opacity: 0;
+  transition: none;
 }
 
 .header {
@@ -27,9 +34,6 @@ body {
 #gallery, #case1, #case2 {
   display:inline-block;
   margin: 2.5%;
-}
-
-.buttons {
 }
 
 .myButton {

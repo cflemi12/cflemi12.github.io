@@ -1,11 +1,13 @@
 body {
   background-color: #121212;
   font-family: "Hammersmith One", sans-serif;
+  overflow: hidden;
 }
 
 .header {
   color: rgb(255, 239, 219);
   letter-spacing: .025em;
   text-align: center;
-  
+  margin: 7.5%
+
 }

@@ -21,7 +21,7 @@ body {
 
 #gallery {
   display:inline-block;
-  margin:2.5%;
+  margin:2.5%
 }
 
 .myButton {
@@ -40,7 +40,7 @@ body {
 	-webkit-border-radius:3px;
 	border-radius:3px;
 	border:1px solid #54381e;
-	display:grid;
+	display:inline-grid;
 	cursor:pointer;
 	color:rgb(255, 239, 219);
   font-family: "Hammersmith One", sans-serif;

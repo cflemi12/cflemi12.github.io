@@ -18,6 +18,10 @@ body {
   display:block;
 }
 
+p.header {
+  font-size:4vw;
+}
+
 .myButton {
 	-moz-box-shadow:inset 0px 1px 0px 0px #a6827e;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #a6827e;

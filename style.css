@@ -6,20 +6,21 @@ body {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  display: block;
+  display: inline-block;
 }
 
 .header {
   color: rgb(255, 239, 219);
   letter-spacing: .025em;
   text-align: left;
+  margin: 2.5%
   margin-right: 40%;
   display:inline-block;
 }
 
 img.header {
-  right: 0px;
-  top: 0px
+  right: 10vw;
+  top: 5vw
 }
 
 .buttons {

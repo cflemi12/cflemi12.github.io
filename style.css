@@ -18,6 +18,11 @@ body {
   display:block;
 }
 
+.contacts {
+  color:rgb(255, 239, 219);
+  font-family: "Hammersmith One", sans-serif;
+}
+
 #gallery {
   display:inline-block;
   margin:2.5%;
@@ -36,6 +41,7 @@ body {
 	font-size:13px;
 	padding:6px 20px;
   margin: 2.5%;
+  text-decoration: none;
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #634b30 5%, #7d5d3b 100%);

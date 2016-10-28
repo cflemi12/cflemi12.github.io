@@ -55,8 +55,8 @@ body {
   border:2px solid rgb(255, 239, 219)
 }
 .myButton:active {
-	position:relative;
-	left:3px;
+	/*position:relative;
+	left:3px;*/
 }
 
 @keyframes fadein {

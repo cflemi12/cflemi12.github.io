@@ -41,7 +41,7 @@ p.header {
 	display:grid;
 	cursor:pointer;
 	color:rgb(255, 239, 219);
-  font-family: "Hammersmith One", sans-serif;
+  	font-family: "Hammersmith One", sans-serif;
 	font-size:13px;
 	padding:6px 24px;
 	text-decoration:none;

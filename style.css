@@ -14,16 +14,15 @@ body {
   letter-spacing: .025em;
   text-align: left;
   margin-right: 40%;
+  display:inline-block;
+}
+
+img.header {
+  right: 5vw;
+  top: 5vw;
 }
 
 .buttons {
   text-align: center;
   position: relative;
-}
-
-#profile {
-  position:absolute;
-  right: 10vw;
-  top: 18vw;
-
 }

@@ -7,13 +7,9 @@ body {
   -ms-user-select: none;
   user-select: none;
   display: block;
-  opacity:1;
-  transition:ls opacity;
-}
-
-body.fade-out {
-  opacity: 0;
-  transition: none;
+  opacity:0;
+  transition:opacity 2s;
+  -webkit-transition: opacity 2s;
 }
 
 .header {

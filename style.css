@@ -22,7 +22,7 @@ body {
   position: relative;
 }
 
-img.header {
+.profile {
   position:sticky;
   top: 10 px
 }

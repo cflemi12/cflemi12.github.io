@@ -7,7 +7,11 @@ body {
 .header {
   color: rgb(255, 239, 219);
   letter-spacing: .025em;
-  text-align: center;
-  margin: 7.5%
+  text-align: left;
+  margin: 2.5%;
+}
 
+.buttons {
+  text-align: center;
+  position: relative;
 }

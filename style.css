@@ -1,3 +1,6 @@
 body {
-    background: rgb(75,75,250);
+    background: #121212;
+    color: #f7f0f5;
+    display: block;
+    overflow: hidden;
 }

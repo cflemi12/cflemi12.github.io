@@ -1,5 +1,5 @@
 body {
-  background-color: #181009;
+  background-color:#302013;
   font-family: "Hammersmith One", sans-serif;
   overflow:scroll;
   -webkit-user-select: none;
@@ -26,7 +26,7 @@ body {
 }
 
 #gallery {
-  display:inline-block;
+  display:inline-block;;
   margin:2.5%;
 }
 

@@ -3,11 +3,9 @@ body {
   font-family: "Hammersmith One", sans-serif;
 }
 
-h1, p {
+.header {
   color: rgb(255, 239, 219);
-}
-
-h1 {
+  letter-spacing: .025em;
   text-align: center;
-  letter-spacing: .05em;
+  
 }

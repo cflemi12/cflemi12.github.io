@@ -11,14 +11,13 @@ body {
 
 .header {
   color: rgb(255, 239, 219);
-  letter-spacing: .005em;
   text-align: left;
   margin: 2.5%;
   margin-right: 40%;
   display:block;
 }
 
-.contacts {
+.contacts, #resume {
   color:rgb(255, 239, 219);
   font-family: "Hammersmith One", sans-serif;
   text-decoration: none;
@@ -28,6 +27,9 @@ body {
 #gallery, #case1, #case2 {
   display:inline-block;
   margin: 2.5%;
+}
+
+.buttons {
 }
 
 .myButton {
@@ -42,8 +44,10 @@ body {
   font-family: "Hammersmith One", sans-serif;
 	font-size:13px;
 	padding:6px 20px;
-  margin: 2.5%;
+  margin-left: 2.5%;
   text-decoration: none;
+  width:85px;
+  text-align:left;
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #634b30 5%, #7d5d3b 100%);

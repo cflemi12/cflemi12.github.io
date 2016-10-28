@@ -25,9 +25,9 @@ body {
   font-size: 26px;
 }
 
-#gallery {
-  display:inline-block;;
-  margin:2.5%;
+#gallery, #case1, #case2 {
+  display:inline-block;
+  margin: 2.5%;
 }
 
 .myButton {

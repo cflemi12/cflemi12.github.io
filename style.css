@@ -37,15 +37,15 @@ body {
 }
 
 .myButton {
-  background-color:#634b30;
-  border-radius:30px;
-  border:2px solid #302013;
-  display:inline-block;
-  cursor:pointer;
-  color:rgb(255, 239, 219);
+	background-color:#634b30;
+	border-radius:30px;
+	border:2px solid #302013;
+	display:inline-block;
+	cursor:pointer;
+	color:rgb(255, 239, 219);
   font-family: "Hammersmith One", sans-serif;
-  font-size:14px;
-  padding:8px 20px;
+	font-size:14px;
+	padding:8px 20px;
   margin-left: 2.5%;
   text-decoration: none;
   width:90px;
